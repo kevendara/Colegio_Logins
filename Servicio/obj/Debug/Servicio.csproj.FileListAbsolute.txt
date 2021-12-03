@@ -1,0 +1,120 @@
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Servicio.dll.config
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Servicio.dll
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Servicio.pdb
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Core.dll
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Entidades.dll
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\EntityFramework.dll
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Repositorio.dll
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Contexto.dll
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Core.pdb
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Entidades.pdb
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Entidades.dll.config
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Repositorio.pdb
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Repositorio.dll.config
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\EntityFramework.xml
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Contexto.pdb
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Contexto.dll.config
+C:\Users\diego\source\repos\NCapas\Servicio\obj\Debug\Servicio.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\NCapas\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\NCapas\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+C:\Users\diego\source\repos\NCapas\Servicio\obj\Debug\Servicio.dll
+C:\Users\diego\source\repos\NCapas\Servicio\obj\Debug\Servicio.pdb
+C:\Users\diego\source\repos\NCapas\Servicio\bin\Debug\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Servicio.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Servicio.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Servicio.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Core.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Entidades.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\EntityFramework.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Repositorio.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Contexto.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Core.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Entidades.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Entidades.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Repositorio.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Repositorio.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\EntityFramework.xml
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Contexto.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\bin\Debug\Contexto.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\obj\Debug\Servicio.csprojAssemblyReference.cache
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\obj\Debug\Servicio.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Servicio\obj\Debug\Servicio.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Servicio.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Servicio.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Servicio.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Core.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Entidades.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\EntityFramework.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Repositorio.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Contexto.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Core.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Entidades.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Entidades.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Repositorio.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Repositorio.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\EntityFramework.xml
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Contexto.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Contexto.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.csprojAssemblyReference.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.pdb
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Servicio.dll.config
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Servicio.dll
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Servicio.pdb
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Core.dll
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Entidades.dll
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\EntityFramework.dll
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\EntityFramework.SqlServer.dll
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Repositorio.dll
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Contexto.dll
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Core.pdb
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Core.dll.config
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Entidades.pdb
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Entidades.dll.config
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Repositorio.pdb
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Repositorio.dll.config
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\EntityFramework.xml
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\EntityFramework.SqlServer.xml
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Contexto.pdb
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\bin\Debug\Contexto.dll.config
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.csproj.AssemblyReference.cache
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.dll
+H:\UTN\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Servicio\obj\Debug\Servicio.pdb
+D:\Colegio_Login\Servicio\bin\Debug\Servicio.dll.config
+D:\Colegio_Login\Servicio\bin\Debug\Servicio.dll
+D:\Colegio_Login\Servicio\bin\Debug\Servicio.pdb
+D:\Colegio_Login\Servicio\bin\Debug\Core.dll
+D:\Colegio_Login\Servicio\bin\Debug\Entidades.dll
+D:\Colegio_Login\Servicio\bin\Debug\EntityFramework.dll
+D:\Colegio_Login\Servicio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Colegio_Login\Servicio\bin\Debug\Repositorio.dll
+D:\Colegio_Login\Servicio\bin\Debug\Contexto.dll
+D:\Colegio_Login\Servicio\bin\Debug\Core.pdb
+D:\Colegio_Login\Servicio\bin\Debug\Core.dll.config
+D:\Colegio_Login\Servicio\bin\Debug\Entidades.pdb
+D:\Colegio_Login\Servicio\bin\Debug\Entidades.dll.config
+D:\Colegio_Login\Servicio\bin\Debug\Repositorio.pdb
+D:\Colegio_Login\Servicio\bin\Debug\Repositorio.dll.config
+D:\Colegio_Login\Servicio\bin\Debug\EntityFramework.xml
+D:\Colegio_Login\Servicio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Colegio_Login\Servicio\bin\Debug\Contexto.pdb
+D:\Colegio_Login\Servicio\bin\Debug\Contexto.dll.config
+D:\Colegio_Login\Servicio\obj\Debug\Servicio.csproj.AssemblyReference.cache
+D:\Colegio_Login\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+D:\Colegio_Login\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+D:\Colegio_Login\Servicio\obj\Debug\Servicio.dll
+D:\Colegio_Login\Servicio\obj\Debug\Servicio.pdb
